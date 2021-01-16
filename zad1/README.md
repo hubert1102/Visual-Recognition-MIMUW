@@ -1,0 +1,1 @@
+Simple NN with one hidden layer trained on mnist dataset. Used numpy for algebra.
