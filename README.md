@@ -1,1 +1,1 @@
-Projects and exercises for Visual Recognition course at MIMUW.
+Projects and exercises for Visual Recognition course at MIMUW. Everything was run on google colab.
